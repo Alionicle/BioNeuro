@@ -19,43 +19,15 @@ El tejido nervioso está constituido por dos tipos de células:
 
 La concepción inicial de la estructura del tejido nervioso sostenida por van Geuchten y Camilo Golgi proponía que el tejido nervioso estaba formado por un retículo fibrilar unido a las prolongaciones de las neuronas. Con las impregnaciones argénticas y por las observaciones de Ramón y Cajal se estableció la doctrina neuronal cuyos enunciados postulan lo siguiente: 1) la neurona es la unidad anatómica del tejido nervioso y sus ramificaciones terminan en otras neuronas sin que exista continuidad; 2) cada neurona es una unidad funcional, el impulso nervioso se transmite de una neurona a otra a través de las sinapsis denominadas por Sherrington; 3) las neuronas son unidades tróficas cuyo cuerpo actúa como centro vital de las prolongaciones.
 
-La neurona es el elemento principal en el funcionamiento del tejido nervioso, son células especializadas en recibir señales desde receptores sensoriales, que conducen y transmiten impulsos eléctricos que consisten en cambios en la polaridad eléctrica a nivel de su membrana celular; este grado de especialización conlleva, entre otras cosas, a la nula capacidad de división.
+La neurona es el elemento principal en el funcionamiento del tejido nervioso, son células especializadas en recibir señales desde receptores sensoriales, que conducen y transmiten impulsos eléctricos que consisten en cambios en la polaridad eléctrica a nivel de su membrana celular; este grado de especialización conlleva, entre otras cosas, a la nula capacidad de división[[1]](#1).
 
+### Glia
+Conjunto de células no neuronales del tejido nervioso que se dispone entre los somas y las prolongaciones neuronales por un lado y los vasos sanguíneos y el tejido conjuntivo por otro. Desarrollan funciones de sostén, nutritivas y secretoras, mantienen la homeostasis, forman mielina e intervienen en la regeneración de las fibras del sistema nervioso. La neuroglía se subdivide en:
+- Neuroglía verdadera
+- Origen ectodérmico
+- Neuroglía falsa o microglía, de origen mesodérmico
+La neuroglía verdadera está formada por la neuroglía central (macroglía o astrocitos fibrosos y protoplásmicos, oligodendroglía, células ependimarias, células coroideas, etc.) y por la neuroglía periférica (células de Schwann y células satélites).
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Alionicle/BioNeuro/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alionicle/BioNeuro/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Referencias
+<a id="1">[1]</a> 
+Laura Colín Barenque, Paul Carrillo Mora. Tejido nervioso. En: Dra. Teresa I. Fortoul van der Goes. Histología y Biología celular. 3ra edición. McGRAW-HILL; 2017. Disponible en: [https://accessmedicina.mhmedical.com/content.aspx?bookid=1995&sectionid=150300743](https://accessmedicina.mhmedical.com/content.aspx?bookid=1995&sectionid=150300743)
