@@ -1,3 +1,5 @@
+# Biomateriales para la regeneración neuronal
+
 # Introducción
 
 El tejido nervioso es el conjunto de células especializadas que forman el sistema nervioso. Las funciones más importantes del tejido nervioso son recibir, analizar, generar, transmitir y almacenar información proveniente tanto del interior del organismo como fuera de éste. Es un complejo sistema encargado de regulación de diversas funciones orgánicas vitales como son la respiración, la alimentación, la digestión, el sueño, etc. También es el origen de funciones muy complejas y abstractas como el pensamiento, la memoria y el aprendizaje.
