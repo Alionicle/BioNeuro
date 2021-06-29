@@ -112,6 +112,9 @@ La matriz de ácido hialurónico y factores de crecimiento actuaría como un «a
 ![Neurogénesis y brotación axonal tras el ictus.  Imágenes fluorescentes de neuroblastos (Dcx) y del marcador de proliferación BrdU y de neurofilamentos axonales (NF200) en el lugar del accidente cerebrovascular y sus alrededores.](screenshot.png)
 > Neurogénesis y brotación axonal tras el ictus.  Imágenes fluorescentes de neuroblastos (Dcx) y del marcador de proliferación BrdU y de neurofilamentos axonales (NF200) en el lugar del accidente cerebrovascular y sus alrededores.
 
+# 4. Conclusiones
+Las neuronas constan de una tasa de regeneración bastante baja como para regenerar de forma autónoma las funciones que implican al sistema nervioso tras una lesión, envejecimiento o por enfermedad, de tal modo la solución más factible es impulsar la neurogenesis a través de inserciones de células madre, que aseguran la regeneración de neuronas y células gliales para ajustar su entorno, pero en primera instancia la forma más prometedora de asegurar la supervivencia de estas células es a través de su encapsulación en biomateriales no tóxicos y biodegradables.
+
 # Referencias
 <a id="1">[1]</a> 
 Laura Colín Barenque, Paul Carrillo Mora. Tejido nervioso. En: Dra. Teresa I. Fortoul van der Goes. Histología y Biología celular. 3ra edición. McGRAW-HILL; 2017. Disponible en: [https://accessmedicina.mhmedical.com/content.aspx?bookid=1995&sectionid=150300743](https://accessmedicina.mhmedical.com/content.aspx?bookid=1995&sectionid=150300743)  
