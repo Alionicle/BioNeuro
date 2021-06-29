@@ -1,4 +1,4 @@
-# 1. Introducción
+# Introducción
 
 El tejido nervioso es el conjunto de células especializadas que forman el sistema nervioso. Las funciones más importantes del tejido nervioso son recibir, analizar, generar, transmitir y almacenar información proveniente tanto del interior del organismo como fuera de éste. Es un complejo sistema encargado de regulación de diversas funciones orgánicas vitales como son la respiración, la alimentación, la digestión, el sueño, etc. También es el origen de funciones muy complejas y abstractas como el pensamiento, la memoria y el aprendizaje.
 
@@ -112,7 +112,7 @@ La matriz de ácido hialurónico y factores de crecimiento actuaría como un «a
 ![Neurogénesis y brotación axonal tras el ictus.  Imágenes fluorescentes de neuroblastos (Dcx) y del marcador de proliferación BrdU y de neurofilamentos axonales (NF200) en el lugar del accidente cerebrovascular y sus alrededores.](screenshot.png)
 > Neurogénesis y brotación axonal tras el ictus.  Imágenes fluorescentes de neuroblastos (Dcx) y del marcador de proliferación BrdU y de neurofilamentos axonales (NF200) en el lugar del accidente cerebrovascular y sus alrededores.
 
-# 4. Conclusiones
+# Conclusiones
 Las neuronas constan de una tasa de regeneración bastante baja como para regenerar de forma autónoma las funciones que implican al sistema nervioso tras una lesión, envejecimiento o por enfermedad, de tal modo la solución más factible es impulsar la neurogenesis a través de inserciones de células madre, que aseguran la regeneración de neuronas y células gliales para ajustar su entorno, pero en primera instancia la forma más prometedora de asegurar la supervivencia de estas células es a través de su encapsulación en biomateriales no tóxicos y biodegradables.
 
 # Referencias
