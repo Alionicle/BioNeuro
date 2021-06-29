@@ -6,7 +6,7 @@ Desde el punto de vista anatómico, el sistema nervioso puede dividirse en siste
 
 
 ![Imágen 1. Representación del sistema nervioso: En color rojo, SNC. EN color azul. SNP.](SN.png)
-> Imágen 1. Representación del sistema nervioso: En color rojo, SNC. EN color azul: SNP.
+> Figura 1. Representación del sistema nervioso: En color rojo, SNC. EN color azul: SNP.
 
 ## Composición del tejido nervioso
 
@@ -36,7 +36,7 @@ La neurogénesis es el proceso de formación de neuronas nuevas.
 La mayoría de las neuronas en el cerebro se forman en el periodo fetal (de la 9na semana después de concepción hasta el nacimiento). Pero la neurogénesis continúa en zonas específicas del cerebro adulto en las llamadas zonas proliferativas. Estas zonas son la zona subventricular (o SVZ por sus siglas en inglés) y la zona subgranular del giro dentado en el hipocampo (o SGZ por sus siglas en inglés). El hipocampo es una estructura localizada en el lóbulo temporal que tiene un papel fundamental en la memoria, el aprendizaje, la regulación del estado de ánimo y el manejo del espacio[[3]](#3).
 
 ![Zona de neurogenesis](zonas.png)
-> Imágen 2. Zonas de neurogénesis
+> Figura 2. Zonas de neurogénesis
 
 ## Lesiones cerebrales
 Las lesiones cerebrales de cualquier etiología, incluyendo traumatismos, enfermedades neurodegenerativas o accidentes cerebrovasculares, suponen alteraciones irreversibles en la función cognitiva, el sistema motor y somato sensorial, e incluso de personalidad. En la actualidad no existen tratamientos eficientes, por tanto, la búsqueda de opciones terapéuticas para aumentar la tasa de reemplazo neuronal en el sistema nervioso central es uno de las líneas de investigación más activas en la neurociencia actual. En este sentido, el descubrimiento de la reposición neuronal a partir de células madre neurales (NSC) en el sistema nervioso central (SNC) adulto ha supuesto un nuevo enfoque en el desarrollo de terapias para este tipo de lesiones cerebrales. El descubrimiento de células madre neurales (NSC) en el cerebro adulto, abrió la posibilidad del desarrollo de nuevas terapias neurorregenerativas basadas en la reposición neuronal a partir de NSC (neurogénesis). En condiciones fisiológicas, existe neurogénesis a partir de NSC en dos zonas del cerebro adulto: el hipocampo y la zona subventricular (SVZ), mientras que en el resto del cerebro adulto no existe neurogenesis o es escasa. Sin embargo, cuando hay una lesión cerebral, estas NSC son reclutadas en el perímetro donde se produjo y se puede ver como proliferan células con características de precursores neurales (NPC)[[4]](#4).
@@ -52,7 +52,7 @@ El cerebro es un tejido complejo, anisótropo y notablemente blando; de hecho, e
 
 Por otro lado, la mielina actúa como material aislante, que está compuesto principalmente por lípidos. De hecho, los lípidos representan aproximadamente el 60% del peso seco total del cerebro.
 
-## MAGBBRIS (Biomaterials for Brain Repair and Imaging after Stroke)
+## 1. MAGBBRIS (Biomaterials for Brain Repair and Imaging after Stroke)
 
 El proyecto europeo (convocatoria EURONANOMED3) MAGBBRIS ("Biomateriales magnéticos para la reparación del cerebro y la obtención de imágenes tras un accidente cerebrovascular" en español) pretende conseguir la reparación de tejidos en caso de ataque isquémico mediante la ingeniería de novedosos nanobiomateriales magnéticos. 
 
@@ -60,22 +60,21 @@ El objetivo del proyecto es demostrar que los factores de crecimiento segregados
 
 El proyecto proporcionará una terapia avanzada que podría trasladarse a un estadio clínico por ser no invasiva, segura y estar al alcance de la mayoría de los pacientes con ictus. Los biomateriales se validarán por completo, incluyendo, entre otros aspectos, la citotoxicidad y las propiedades terapéuticas tanto in vitro como in vivo; se utilizarán técnicas avanzadas de imagen (PET, MRI e Imagen Óptica) para monitorizar y guiar la entrega de los biomateriales y para evaluar el efecto terapéutico in vivo a lo largo del tiempo en un modelo de ratón de isquemia cerebral[[5]](#5).
 
-## Electrodos nanoestructurados a base de grafeno para la reparación neuronal
+## 2. Electrodos nanoestructurados a base de grafeno para la reparación neuronal
 La estimulación eléctrica puede afectar al comportamiento funcional neuronal y favorecer la reparación neuronal. Ambos aspectos requieren electrodos biocompatibles que eviten la formación de radicales, protejan al sistema vivo de los efectos del campo eléctrico y tengan una gran capacidad de carga. Este proyecto ha permitido crear nuevos materiales electroactivos híbridos formados por óxido de iridio y grafeno, con una capacidad 100 veces superior a la del platino habitual en la clínica para las enfermedades de Parkinson/epilepsia/TOC. Estos electrodos permiten la aplicación de campos directos para la reparación neuronal. Además, el grafeno aporta unas propiedades muy interesantes a los electrodos: una mayor estabilidad y una mayor capacidad de carga. 
 
 Resultados recientes demuestran que la reparación neuronal es posible *in vitro*, en tiempos de estimulación muy cortos (40 min), y con electroestimulación de campo directo, controlando la carga suministrada. Resulta significativo que los efectos del campo eléctrico dependan en gran medida del material del electrodo utilizado, y se constata que, de entre muchos materiales probados, la reparación neuronal es óptima para los electrodos híbridos de óxido de iridio y grafeno. El tipo de materiales utilizados marca la diferencia. 
 
 Las implicaciones de estos resultados sugieren que este sistema puede tener un uso inmediato en procedimientos de electroestimulación más seguros, y puede abrir vías para la tan necesaria reparación neuronal[[6]](#6).
 
-## Quitosano
+## 3. Quitosano
 El quitosano ha cobrado cada vez más importancia en diversos enfoques de ingeniería de tejidos para la reconstrucción de nervios periféricos, ya que ha demostrado su potencial para interactuar con las células asociadas a la regeneración y el microambiente neural, lo que conduce a una mejor regeneración axonal y a una menor formación de neuromas.
 
 El componente básico del quitosano es la quitina, un polímero de cadena larga de N-acetilglucosamina que se recoge en los exoesqueletos de los artrópodos. Después de la celulosa, la quitina es el segundo polisacárido más abundante en la naturaleza y se pretende utilizar principalmente en su modificación desacetilada (quitosano) en el campo de la cirugía de los nervios periféricos.
 
 
 ![Figura 3. Estructura química de la quitina y el quitosano. La estructura química de la quitina se basa en un homopolímero lineal de unidades de N-acetil-D-glucosamina (A). Tras la desacetilación parcial, la quitina se convierte en quitosano, utilizado principalmente en la cirugía de los nervios periféricos (B).](quito.jpg)
-
-En los conductos nerviosos de ingeniería tisular, los procesos de biodegradación y sustitución fisiológica comienzan inmediatamente y, por tanto, presentan los mecanismos de acción centrales que influyen en la recuperación del nervio. A diferencia de los materiales de base ácida, como el ácido poliglicólico (PGA) o los derivados de la polilactida, que sufren una disminución del ph durante la biodegradación o signos de reacción inflamatoria de cuerpo extraño, los metabolitos del quitosano demostraron efectos neuroprotectores durante la regeneración de los nervios periféricos.
+> Figura 3. Estructura química de la quitina y el quitosano. La estructura química de la quitina se basa en un homopolímero lineal de unidades de N-acetil-D-glucosamina (A). Tras la desacetilación parcial, la quitina se convierte en quitosano, utilizado principalmente en la cirugía de los nervios periféricos (B). En los conductos nerviosos de ingeniería tisular, los procesos de biodegradación y sustitución fisiológica comienzan inmediatamente y, por tanto, presentan los mecanismos de acción centrales que influyen en la recuperación del nervio. A diferencia de los materiales de base ácida, como el ácido poliglicólico (PGA) o los derivados de la polilactida, que sufren una disminución del ph durante la biodegradación o signos de reacción inflamatoria de cuerpo extraño, los metabolitos del quitosano demostraron efectos neuroprotectores durante la regeneración de los nervios periféricos.
 
 En una aplicación médica, el quitosano tiene ya una larga historia debido a su biocompatibilidad y a sus propiedades no tóxicas y biodegradables.
 
@@ -94,14 +93,24 @@ Se ha combinado un tubo de nervio de quitosano con una capa interior de soporte 
 #### Microesferas
 El quitosano también puede fabricarse en forma de microesferas o micropartículas, utilizadas principalmente para la administración de fármacos. Se han incorporado microesferas de quitosano cargadas con Factor de Crecimiento Nervioso (NGF) a andamios de colágeno-chitosán para el nervio ciático de una rata y se han obtenido resultados prometedores en cuanto a resultados funcionales en combinación con microcanales como revestimiento interior (Zeng et al., 2014), así como en combinación con un conducto guía de quitosano para la reconstrucción de lesiones del nervio facial[[7]](#7). 
 
-#### Células madre encapsuladas en hidrogeles de fibroína de seda
+## 5. Células madre encapsuladas en hidrogeles de fibroína de seda
 La terapia con células madre constituye un enfoque prometedor para estimular la recuperación funcional tras un ictus. Se han utilizado diferentes tipos de células madre como fuente potencial tanto de células de reemplazo como de factores neurotróficos, aunque los mecanismos de acción precisos y la vía de administración óptima no están claros. En comparación con la administración sistémica, la implantación cerebral requiere menos células y proporciona un injerto de precisión. Sin embargo, la vía cerebral también ha alcanzado niveles relativamente modestos de recuperación funcional tras el ictus, lo que se ha asociado a la grave pérdida de células injertadas que, por lo general, no se observan en el cerebro durante más de 1 a 3 semanas tras el trasplante, como se ha informado en varios modelos preclínicos. En pacientes, se ha informado de que la implantación cerebral de células madre es segura y se han observado mejoras clínicas, pero el pequeño tamaño de la muestra y la heterogeneidad entre los sujetos impiden actualmente el uso de este enfoque específico en la práctica clínica
 El uso de biomateriales en la ingeniería de tejidos está en auge y ha proporcionado ejemplos de cómo la integración de células y factores neurotróficos en polímeros basados en biomateriales da lugar a una mejor recuperación funcional tras el accidente cerebrovascular en comparación con la implantación de células o factores terapéuticos por sí solos.
 
 Se observó una recuperación progresiva y significativa exclusivamente en los ratones implantados con células madre mesenquimales (mSCs) encapsuladas en hidrogeles de Fibroína de seda (SF). Dos fenómenos secuenciales podrían explicar tentativamente el efecto positivo de esta terapia en este grupo de animales. En primer lugar, el menor daño cortical detectado tras el tratamiento se atribuye probablemente a las conocidas propiedades neuroprotectoras de las mSC, propiedades que se potenciaron visiblemente cuando esta población celular se implantó junto al biomaterial. En segundo lugar, y probablemente más relevante para la recuperación, la menor cantidad de daño cortical en los animales con mSCs-SF podría constituir un prerrequisito para promover la plasticidad cortical retardada en el tejido que rodea la lesión, lo que llevaría a mejoras conductuales. Las pruebas actuales favorecen la existencia de una reorganización de las áreas peri-infarto en los infartos que abarcan pequeñas regiones del territorio cortical [[8]](#8)
 
+![Imágenes de microscopia de fluorescencia mostrando células madre (en verde) injertadas en el tejido cerebral (azul). Los cuatro cuadros de la izquierda muestran la supervivencia de células madre implantadas sin encapsular, y los cuatro de la derecha la de células encapsuladas en hidrogeles de fibroína de la seda.](fibroina.jpg)
+> Figura 4. Imágenes de microscopia de fluorescencia mostrando células madre (en verde) injertadas en el tejido cerebral (azul). Los cuatro cuadros de la izquierda muestran la supervivencia de células madre implantadas sin encapsular, y los cuatro de la derecha la de células encapsuladas en hidrogeles de fibroína de la seda.
 
-![fibroina.jpg](Imágenes de microscopia de fluorescencia mostrando células madre (en verde) injertadas en el tejido cerebral (azul). Los cuatro cuadros de la izquierda muestran la supervivencia de células madre implantadas sin encapsular, y los cuatro de la derecha la de células encapsuladas en hidrogeles de fibroína de la seda.)
+## 6. Matriz de ácido hialurónico
+Una matriz de ácido hialurónico se modificó a fin de contener y liberar moléculas capaces de promover la formación de vasos sanguíneos. Ello favoreció el restablecimiento del flujo de sangre en la zona infartada. Además, la nueva estructura de conductos vasculares mostró gran parecido, en cuanto a funcionalidad y ramificación, con las existentes en áreas no dañadas.
+
+Durante el desarrollo, la creación de venas, arterias y capilares, proceso también conocido como angiogénesis, resulta esencial para la formación y maduración del sistema nervioso central. Según los resultados, el gel indujo el crecimiento de axones neuronales que recubrieron por completo la lesión, dieciséis semanas después de su inyección. Las nuevas conexiones se estructuraron alrededor de los vasos sanguíneos, recién acaecidos a raíz de la aplicación del material. Este hecho confirmaría la implicación de la red vascular en la regeneración del tejido cerebral.
+
+La matriz de ácido hialurónico y factores de crecimiento actuaría como un «andamio», una estructura capaz de rellenar el vacío de la cicatriz y promover la regeneración del tejido. Asimismo, el gel resultó biodegradable, pues con el tiempo el organismo lo absorbió y desapareció.
+
+![Neurogénesis y brotación axonal tras el ictus.  Imágenes fluorescentes de neuroblastos (Dcx) y del marcador de proliferación BrdU y de neurofilamentos axonales (NF200) en el lugar del accidente cerebrovascular y sus alrededores.](screenshot.png)
+> Neurogénesis y brotación axonal tras el ictus.  Imágenes fluorescentes de neuroblastos (Dcx) y del marcador de proliferación BrdU y de neurofilamentos axonales (NF200) en el lugar del accidente cerebrovascular y sus alrededores.
 
 # Referencias
 <a id="1">[1]</a> 
